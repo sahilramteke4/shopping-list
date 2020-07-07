@@ -1,0 +1,46 @@
+.fullPadding {
+	padding: 20px;
+}
+
+.noTopPadding {
+	padding: 0px 20px 20px 20px;
+}
+
+#Enter {
+	border-radius: 10rem;
+	width: 5rem;
+	background-color: #42c765;
+	border-color: #42c765;
+	cursor: pointer;
+	transition: auto 2s;
+}
+
+#Enter:hover {
+	background-color: #89e34d;
+	border-color: #89e34d;
+}
+
+li {
+	cursor: pointer;
+	margin: 3px;
+}
+
+.delete {
+	margin-left: 5em;
+	border-radius: 10rem;
+	width: 5rem;
+	background-color: rgba(217, 70, 48,0.5);
+	border-color: rgba(217, 70, 48,0.5);
+	transition: auto 2s;
+	height: 22px;
+	width: 80px
+}
+
+.delete:hover {
+	background-color: rgba(217, 70, 48,0.8);
+	border-color: rgba(217, 70, 48,0.8);
+}
+
+.done {
+	text-decoration: line-through;
+}
