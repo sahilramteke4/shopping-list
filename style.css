@@ -1,3 +1,10 @@
+body {
+	background: url('shoplist.jpg') no-repeat center fixed;
+	background-size: cover;
+	padding-left: 7rem;
+	padding-top: 3rem;
+}
+
 .fullPadding {
 	padding: 20px;
 }
